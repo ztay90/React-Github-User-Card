@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+
+.profile-container {
+  border:1px solid #CFCFCF;
+  background: #CFCFCF;
+  width: 375px;
+  margin: 0 auto;
+} 
+
+.profile-container img{
+  width: 100%;
+}
+
+.profile-info {
+  padding-left: 5%;
+}
+
+.follower-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+   
+}
+
+.follower-container img{
+  width: 100%;
+}
+
+.card {
+  border:1px solid #CFCFCF;
+  background: #CFCFCF;
+  margin: 0 auto;
+  width: 375px;
+}
